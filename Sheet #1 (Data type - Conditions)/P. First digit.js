@@ -1,0 +1,1 @@
+print(+readline()[0] & 1 ? "ODD" : "EVEN")
